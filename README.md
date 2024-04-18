@@ -12,8 +12,8 @@ This is an official implementation of ***[FedSSA: Semantic Similarity-based Aggr
 ---------
 
 #### Reproduce Paper Results
-- Model-homogeneous experiment: ```FedSSA.py ```
-- Model-heterogeneous experiment: ```FedSSA_mh.py ```
+- Model-homogeneous experiment: ```FedSSA_homo.py ```
+- Model-heterogeneous experiment: ```FedSSA_hetero.py ```
 ---------
 
 
