@@ -1,7 +1,7 @@
 ## FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning
 This is an official implementation of ***[FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning](https://arxiv.org/abs/2312.09006)*** paper.
 
-![](FedSSA_framework.png)
+![](FedSSA.pdf)
 
 #### Installation
 - Create a virtual environment with virtualenv
